@@ -3,5 +3,41 @@
 @theme{
     --color-primary-bg-color : #010D15;
     --color-secondary-bg-color : rgb(30, 45, 58);
-    --color-primary-border-color : #e5e7eb;
+    --color-primary-border-font-color : rgb(96, 123, 150);
+
+}
+
+.fira-code-300 {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.fira-code-400 {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fira-code-500 {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.fira-code-600 {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.fira-code-700 {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
 }
