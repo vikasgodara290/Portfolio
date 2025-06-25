@@ -2,8 +2,8 @@
 
 @theme{
     --color-primary-bg-color : #010D15;
-    --color-secondary-bg-color : rgb(30, 45, 58);
-    --color-primary-border-font-color : rgb(96, 123, 150);
+    --color-secondary-bg-color : oklch(21% 0.034 264.665);
+    --color-primary-border-font-color : oklch(92.9% 0.013 255.508);
 
 }
 
